@@ -1,0 +1,308 @@
+{
+    "grupos": {
+        "1": {
+            "profesor": {
+                "numeroDocumento": 321,
+                "nombre": "D"
+            },
+            "campers": {
+                "123456789": {
+                    "nombre": "Juan",
+                    "numeroDocumento": "123456789",
+                    "ruta": {
+                        "titulo": "Ruta NodeJS",
+                        "funProgram": {
+                            "titulo": "Introduccion a la algoritmia",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "proWeb": "Programacio\u0301n Web (HTML, CSS y Bootstrap)",
+                        "proFormal": {
+                            "titulo": "JavaScript",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "baseDatos": {
+                            "titulo": "Mysql",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "back": {
+                            "titulo": "Spring Boot",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    }
+                },
+                "987654321": {
+                    "nombre": "Mar\u00c3\u0192\u00c2\u00ada",
+                    "numeroDocumento": "987654321",
+                    "ruta": {
+                        "titulo": "Ruta NodeJS",
+                        "funProgram": {
+                            "titulo": "Introduccion a la algoritmia",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "proWeb": "Programacio\u0301n Web (HTML, CSS y Bootstrap)",
+                        "proFormal": {
+                            "titulo": "JavaScript",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "baseDatos": {
+                            "titulo": "Mysql",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "back": {
+                            "titulo": "Spring Boot",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "profesor": {
+                "numeroDocumento": 321,
+                "nombre": "D"
+            },
+            "campers": {
+                "123456789": {
+                    "nombre": "Juan",
+                    "numeroDocumento": "123456789",
+                    "ruta": {
+                        "titulo": "Ruta Node2",
+                        "funProgram": {
+                            "titulo": "PSeInt",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "proWeb": "Programacio\u0301n Web (HTML, CSS y Bootstrap)",
+                        "proFormal": {
+                            "titulo": "C#",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "baseDatos": {
+                            "titulo": "Postgresql",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "back": {
+                            "titulo": "NodeJS y Express",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    }
+                },
+                "987654321": {
+                    "nombre": "Mar\u00c3\u0192\u00c2\u00ada",
+                    "numeroDocumento": "987654321",
+                    "ruta": {
+                        "titulo": "Ruta Node2",
+                        "funProgram": {
+                            "titulo": "PSeInt",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "proWeb": "Programacio\u0301n Web (HTML, CSS y Bootstrap)",
+                        "proFormal": {
+                            "titulo": "C#",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "baseDatos": {
+                            "titulo": "Postgresql",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "back": {
+                            "titulo": "NodeJS y Express",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    }
+                },
+                "3": {
+                    "nombre": "A",
+                    "numeroDocumento": 3,
+                    "ruta": {
+                        "titulo": "Ruta Node2",
+                        "funProgram": {
+                            "titulo": "PSeInt",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "proWeb": "Programacio\u0301n Web (HTML, CSS y Bootstrap)",
+                        "proFormal": {
+                            "titulo": "C#",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "baseDatos": {
+                            "titulo": "Postgresql",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "back": {
+                            "titulo": "NodeJS y Express",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "3": {
+            "profesor": {
+                "numeroDocumento": 123123123,
+                "nombre": "Jholver"
+            },
+            "campers": {
+                "123321": {
+                    "nombre": "Uriel",
+                    "numeroDocumento": 123321,
+                    "ruta": {
+                        "titulo": "Ruta SpringBoot",
+                        "funProgram": {
+                            "titulo": "Introduccion a la algoritmia",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "proWeb": "Programaci\u00f3n Web (HTML, CSS y Bootstrap)",
+                        "proFormal": {
+                            "titulo": "Java",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "baseDatos": {
+                            "titulo": "Mysql",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "back": {
+                            "titulo": "NetCore",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    }
+                },
+                "1010101010": {
+                    "nombre": "David",
+                    "numeroDocumento": 1010101010,
+                    "ruta": {
+                        "titulo": "Ruta SpringBoot",
+                        "funProgram": {
+                            "titulo": "Introduccion a la algoritmia",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "proWeb": "Programaci\u00f3n Web (HTML, CSS y Bootstrap)",
+                        "proFormal": {
+                            "titulo": "Java",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "baseDatos": {
+                            "titulo": "Mysql",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        "back": {
+                            "titulo": "NetCore",
+                            "notas": [
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

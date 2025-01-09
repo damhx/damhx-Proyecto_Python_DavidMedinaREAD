@@ -1,0 +1,44 @@
+{
+    "rutas": {
+        "1": {
+            "titulo": "Ruta SpringBoot",
+            "funProgram": {
+                "titulo": "Introduccion a la algoritmia",
+                "notas": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "proWeb": "Programaci\u00f3n Web (HTML, CSS y Bootstrap)",
+            "proFormal": {
+                "titulo": "Java",
+                "notas": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "baseDatos": {
+                "titulo": "Mysql",
+                "notas": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "back": {
+                "titulo": "NetCore",
+                "notas": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "profesor": {
+                "numeroDocumento": 123123123,
+                "nombre": "Jholver"
+            }
+        }
+    }
+}
